@@ -45,9 +45,9 @@
         "quest": "jordas_precept"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "$strings$jordas_golem£", "node": "eris", "drop": "38.72%" },
-        { "part": "Chassis", "mission": "$strings$jordas_golem£", "node": "eris", "drop": "38.72%" },
-        { "part": "Systems", "mission": "$strings$jordas_golem£", "node": "eris", "drop": "22.56%" }
+        { "part": "Neuroptics", "mission": "£strings$jordas_golem£", "node": "eris", "drop": "38.72%" },
+        { "part": "Chassis", "mission": "£strings$jordas_golem£", "node": "eris", "drop": "38.72%" },
+        { "part": "Systems", "mission": "£strings$jordas_golem£", "node": "eris", "drop": "22.56%" }
       ]
     }
   },
@@ -337,10 +337,10 @@
       "values": [
         { "part": "Neuroptics", "mission": "Pago", "node": "fortress", "drop": "16.67%" },
         { "part": "Neuroptics", "mission": "Taveuni", "node": "fortress", "drop": "12%" },
-        { "part": "Chassis", "mission": "$strings$fissure£", "node": "any", "drop": "3%" },
+        { "part": "Chassis", "mission": "£strings$fissure£", "node": "any", "drop": "3%" },
         { "part": "Systems", "mission": "Taveuni", "node": "fortress", "drop": "12%" },
-        { "part": "Systems", "mission": "$strings$defection£, Rot B", "node": "any", "drop": "15%" },
-        { "part": "Systems", "mission": "$strings$defection£, Rot C", "node": "any", "drop": "6%" }
+        { "part": "Systems", "mission": "£strings$defection£, Rot B", "node": "any", "drop": "15%" },
+        { "part": "Systems", "mission": "£strings$defection£, Rot C", "node": "any", "drop": "6%" }
       ]
     }
   },
@@ -422,14 +422,14 @@
       "type": "drop",
       "values": [
         { "part": "Blueprint", "mission": "Sabmir Cloud", "node": "veil_proxima", "drop": "12%" },
-        { "part": "Blueprint", "mission": "$strings$spy£", "node": "hard_tier", "drop": "7.52%" },
+        { "part": "Blueprint", "mission": "£strings$spy£", "node": "hard_tier", "drop": "7.52%" },
         { "part": "Neuroptics", "mission": "Peregrine Axis", "node": "pluto_proxima", "drop": "12%" },
-        { "part": "Neuroptics", "mission": "$strings$spy£", "node": "hard_tier", "drop": "7.52%" },
+        { "part": "Neuroptics", "mission": "£strings$spy£", "node": "hard_tier", "drop": "7.52%" },
         { "part": "Chassis", "mission": "Brom Cluster", "node": "neptune_proxima", "drop": "12%" },
         { "part": "Chassis", "mission": "Pavlov", "node": "lua", "drop": "7.37%" },
-        { "part": "Chassis", "mission": "$strings$spy£", "node": "medium_tier", "drop": "5.64%" },
+        { "part": "Chassis", "mission": "£strings$spy£", "node": "medium_tier", "drop": "5.64%" },
         { "part": "Systems", "mission": "Orvin-Haarc", "node": "venus_proxima", "drop": "12%" },
-        { "part": "Systems", "mission": "$strings$spy£", "node": "easy_tier", "drop": "10%" }
+        { "part": "Systems", "mission": "£strings$spy£", "node": "easy_tier", "drop": "10%" }
       ]
     }
   },
@@ -454,10 +454,10 @@
     "parts": {
       "type": "drop",
       "values": [
-        { "part": "Blueprint", "mission": "$strings$so£, Rot C", "node": "*", "drop": "11.28%" },
-        { "part": "Neuroptics", "mission": "$strings$so£, Rot B", "node": "*", "drop": "9.09%" },
-        { "part": "Chassis", "mission": "$strings$so£, Rot A", "node": "*", "drop": "8.33%" },
-        { "part": "Systems", "mission": "$strings$so£, Rot C", "node": "*", "drop": "11.28%" }
+        { "part": "Blueprint", "mission": "£strings$so£, Rot C", "node": "*", "drop": "11.28%" },
+        { "part": "Neuroptics", "mission": "£strings$so£, Rot B", "node": "*", "drop": "9.09%" },
+        { "part": "Chassis", "mission": "£strings$so£, Rot A", "node": "*", "drop": "8.33%" },
+        { "part": "Systems", "mission": "£strings$so£, Rot C", "node": "*", "drop": "11.28%" }
       ]
     }
   },
@@ -560,9 +560,9 @@
         "type": "market"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "$strings$mutalist_alad_v£", "node": "eris", "drop": "38.72%" },
-        { "part": "Chassis", "mission": "$strings$mutalist_alad_v£", "node": "eris", "drop": "38.72%" },
-        { "part": "Systems", "mission": "$strings$mutalist_alad_v£", "node": "eris", "drop": "22.56%" }
+        { "part": "Neuroptics", "mission": "£strings$mutalist_alad_v£", "node": "eris", "drop": "38.72%" },
+        { "part": "Chassis", "mission": "£strings$mutalist_alad_v£", "node": "eris", "drop": "38.72%" },
+        { "part": "Systems", "mission": "£strings$mutalist_alad_v£", "node": "eris", "drop": "22.56%" }
       ]
     }
   },
@@ -688,9 +688,9 @@
         "type": "market"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "$strings$phorid£", "node": "any", "drop": "38.72%" },
-        { "part": "Chassis", "mission": "$strings$phorid£", "node": "any", "drop": "38.72%" },
-        { "part": "Systems", "mission": "$strings$phorid£", "node": "any", "drop": "22.56%" }
+        { "part": "Neuroptics", "mission": "£strings$phorid£", "node": "any", "drop": "38.72%" },
+        { "part": "Chassis", "mission": "£strings$phorid£", "node": "any", "drop": "38.72%" },
+        { "part": "Systems", "mission": "£strings$phorid£", "node": "any", "drop": "22.56%" }
       ]
     }
   },
@@ -712,9 +712,9 @@
         "type": "market"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "$strings$any£ (Grineer, cache)", "node": "veil_proxima", "drop": "10%" },
-        { "part": "Chassis", "mission": "$strings$any£ (cache)", "node": "saturn_proxima", "drop": "10%" },
-        { "part": "Systems", "mission": "$strings$any£ (cache)", "node": "earth_proxima", "drop": "10%" }
+        { "part": "Neuroptics", "mission": "£strings$any£ (Grineer, cache)", "node": "veil_proxima", "drop": "10%" },
+        { "part": "Chassis", "mission": "£strings$any£ (cache)", "node": "saturn_proxima", "drop": "10%" },
+        { "part": "Systems", "mission": "£strings$any£ (cache)", "node": "earth_proxima", "drop": "10%" }
       ]
     }
   },
@@ -737,7 +737,7 @@
       },
       "values": [
         { "part": "Neuroptics", "mission": "Terrorem, Rot C", "node": "deimos", "drop": "22.56%" },
-        { "part": "Chassis", "mission": "$strings$any£", "node": "lua", "drop": "100%" },
+        { "part": "Chassis", "mission": "£strings$any£", "node": "lua", "drop": "100%" },
         { "part": "Systems", "mission": "Plato (cache)", "node": "lua", "drop": "22.56%" }
       ]
     }
@@ -864,9 +864,9 @@
         "quest": "call_of_the_tempestarii"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "$strings$void_storm£", "node": "corpus_proxima", "drop": "10%" },
-        { "part": "Chassis", "mission": "$strings$void_storm£", "node": "corpus_proxima", "drop": "10%" },
-        { "part": "Systems", "mission": "$strings$void_storm£", "node": "corpus_proxima", "drop": "10%" }
+        { "part": "Neuroptics", "mission": "£strings$void_storm£", "node": "corpus_proxima", "drop": "10%" },
+        { "part": "Chassis", "mission": "£strings$void_storm£", "node": "corpus_proxima", "drop": "10%" },
+        { "part": "Systems", "mission": "£strings$void_storm£", "node": "corpus_proxima", "drop": "10%" }
       ]
     }
   },
