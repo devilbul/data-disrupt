@@ -102,14 +102,14 @@
     "parts": {
       "type": "drop",
       "values": [
-        { "part": "Blueprint", "mission": "War", "node": "earth_poe", "drop": "?%" },
-        { "part": "Blueprint", "mission": "War", "node": "earth_poe", "drop": "?%" },
-        { "part": "Neuroptics", "mission": "War", "node": "earth_poe", "drop": "?%" },
-        { "part": "Neuroptics", "mission": "War", "node": "earth_poe", "drop": "?%" },
-        { "part": "Chassis", "mission": "War", "node": "venus_ob", "drop": "?%" },
-        { "part": "Chassis", "mission": "War", "node": "venus_ob", "drop": "?%" },
-        { "part": "Systems", "mission": "War", "node": "venus_ob", "drop": "?%" },
-        { "part": "Systems", "mission": "War", "node": "venus_ob", "drop": "?%" }
+        { "part": "Blueprint", "mission": "Mission Narmer", "node": "earth_poe", "drop": "?%" },
+        { "part": "Blueprint", "mission": "Mission Narmer", "node": "earth_poe", "drop": "?%" },
+        { "part": "Neuroptics", "mission": "Mission Narmer", "node": "earth_poe", "drop": "?%" },
+        { "part": "Neuroptics", "mission": "Mission Narmer", "node": "earth_poe", "drop": "?%" },
+        { "part": "Chassis", "mission": "Mission Narmer", "node": "venus_ob", "drop": "?%" },
+        { "part": "Chassis", "mission": "Mission Narmer", "node": "venus_ob", "drop": "?%" },
+        { "part": "Systems", "mission": "Mission Narmer", "node": "venus_ob", "drop": "?%" },
+        { "part": "Systems", "mission": "Mission Narmer", "node": "venus_ob", "drop": "?%" }
       ]
     }
   },
