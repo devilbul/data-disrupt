@@ -92,6 +92,28 @@
     }
   },
   {
+    "warframe": "Caliban",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/cd/Caliban.png",
+    "builds": {
+      "warframe": [
+        { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "values": [
+        { "part": "Blueprint", "mission": "War", "node": "earth_poe", "drop": "?%" },
+        { "part": "Blueprint", "mission": "War", "node": "earth_poe", "drop": "?%" },
+        { "part": "Neuroptics", "mission": "War", "node": "earth_poe", "drop": "?%" },
+        { "part": "Neuroptics", "mission": "War", "node": "earth_poe", "drop": "?%" },
+        { "part": "Chassis", "mission": "War", "node": "venus_ob", "drop": "?%" },
+        { "part": "Chassis", "mission": "War", "node": "venus_ob", "drop": "?%" },
+        { "part": "Systems", "mission": "War", "node": "venus_ob", "drop": "?%" },
+        { "part": "Systems", "mission": "War", "node": "venus_ob", "drop": "?%" }
+      ]
+    }
+  },
+  {
     "warframe": "Chroma",
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/60/ChromaIcon272.png",
     "builds": {
@@ -112,28 +134,6 @@
         { "part": "Neuroptics", "mission": "junction", "node": "uranus" },
         { "part": "Chassis", "mission": "junction", "node": "neptune" },
         { "part": "Systems", "mission": "junction", "node": "pluto" }
-      ]
-    }
-  },
-  {
-    "warframe": "Caliban",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/cd/Caliban.png",
-    "builds": {
-      "warframe": [
-        { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
-      ]
-    },
-    "parts": {
-      "type": "drop",
-      "values": [
-        { "part": "Blueprint", "mission": "War", "node": "earth_poe", "drop": "?%" },
-        { "part": "Blueprint", "mission": "War", "node": "earth_poe", "drop": "?%" },
-        { "part": "Neuroptics", "mission": "War", "node": "earth_poe", "drop": "?%" },
-        { "part": "Neuroptics", "mission": "War", "node": "earth_poe", "drop": "?%" },
-        { "part": "Chassis", "mission": "War", "node": "venus_ob", "drop": "?%" },
-        { "part": "Chassis", "mission": "War", "node": "venus_ob", "drop": "?%" },
-        { "part": "Systems", "mission": "War", "node": "venus_ob", "drop": "?%" },
-        { "part": "Systems", "mission": "War", "node": "venus_ob", "drop": "?%" }
       ]
     }
   },
