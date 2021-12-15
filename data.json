@@ -116,6 +116,28 @@
     }
   },
   {
+    "warframe": "Caliban",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/cd/Caliban.png",
+    "builds": {
+      "warframe": [
+        { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "values": [
+        { "part": "Blueprint", "mission": "War", "node": "earth_poe", "drop": "?%" },
+        { "part": "Blueprint", "mission": "War", "node": "earth_poe", "drop": "?%" },
+        { "part": "Neuroptics", "mission": "War", "node": "earth_poe", "drop": "?%" },
+        { "part": "Neuroptics", "mission": "War", "node": "earth_poe", "drop": "?%" },
+        { "part": "Chassis", "mission": "War", "node": "venus_ob", "drop": "?%" },
+        { "part": "Chassis", "mission": "War", "node": "venus_ob", "drop": "?%" },
+        { "part": "Systems", "mission": "War", "node": "venus_ob", "drop": "?%" },
+        { "part": "Systems", "mission": "War", "node": "venus_ob", "drop": "?%" }
+      ]
+    }
+  },
+  {
     "warframe": "Ember",
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/50/EmberIcon272.png",
     "builds": {
