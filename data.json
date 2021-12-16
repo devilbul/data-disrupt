@@ -105,15 +105,15 @@
         "type": "market"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "Tier Narmer, 5", "node": "poe_ov", "drop": "8.11%" },
-        { "part": "Neuroptics", "mission": "Tier Narmer, 4", "node": "poe_ov", "drop": "5.45%" },
-        { "part": "Neuroptics", "mission": "Tier Narmer, 2&3", "node": "poe_ov", "drop": "7.5%" },
-        { "part": "Chassis", "mission": "Tier Narmer, 5", "node": "poe_ov", "drop": "8.11%" },
-        { "part": "Chassis", "mission": "Tier Narmer, 4", "node": "poe_ov", "drop": "5.45%" },
-        { "part": "Chassis", "mission": "Tier Narmer, 2&3", "node": "poe_ov", "drop": "7.5%" },
-        { "part": "Systems", "mission": "Tier Narmer, 5", "node": "poe_ov", "drop": "8.11%" },
-        { "part": "Systems", "mission": "Tier Narmer, 4", "node": "poe_ov", "drop": "5.45%" },
-        { "part": "Systems", "mission": "Tier Narmer, 2&3", "node": "poe_ov", "drop": "7.5%" }
+        { "part": "Neuroptics", "mission": "Tier Narmer, Mission 5", "node": "poe_ov", "drop": "8.11%" },
+        { "part": "Neuroptics", "mission": "Tier Narmer, Mission 4", "node": "poe_ov", "drop": "5.45%" },
+        { "part": "Neuroptics", "mission": "Tier Narmer, Mission 2&3", "node": "poe_ov", "drop": "7.5%" },
+        { "part": "Chassis", "mission": "Tier Narmer, Mission 5", "node": "poe_ov", "drop": "8.11%" },
+        { "part": "Chassis", "mission": "Tier Narmer, Mission 4", "node": "poe_ov", "drop": "5.45%" },
+        { "part": "Chassis", "mission": "Tier Narmer, Mission 2&3", "node": "poe_ov", "drop": "7.5%" },
+        { "part": "Systems", "mission": "Tier Narmer, Mission 5", "node": "poe_ov", "drop": "8.11%" },
+        { "part": "Systems", "mission": "Tier Narmer, Mission 4", "node": "poe_ov", "drop": "5.45%" },
+        { "part": "Systems", "mission": "Tier Narmer, Mission 2&3", "node": "poe_ov", "drop": "7.5%" }
       ]
     }
   },
