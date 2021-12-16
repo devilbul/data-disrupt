@@ -101,16 +101,19 @@
     },
     "parts": {
       "type": "drop",
+      "blueprint": {
+        "type": "market"
+      },
       "values": [
-        { "part": "Neuroptics", "mission": "Tier Narmer, 5", "node": "poe_ob", "drop": "8.11%" },
-        { "part": "Neuroptics", "mission": "Tier Narmer, 4", "node": "poe_ob", "drop": "5.45%" },
-        { "part": "Neuroptics", "mission": "Tier Narmer, 2&3", "node": "poe_ob", "drop": "7.5%" },
-        { "part": "Chassis", "mission": "Tier Narmer, 5", "node": "poe_ob", "drop": "8.11%" },
-        { "part": "Chassis", "mission": "Tier Narmer, 4", "node": "poe_ob", "drop": "5.45%" },
-        { "part": "Chassis", "mission": "Tier Narmer, 2&3", "node": "poe_ob", "drop": "7.5%" },
-        { "part": "Systems", "mission": "Tier Narmer, 5", "node": "poe_ob", "drop": "8.11%" },
-        { "part": "Systems", "mission": "Tier Narmer, 4", "node": "poe_ob", "drop": "5.45%" },
-        { "part": "Systems", "mission": "Tier Narmer, 2&3", "node": "poe_ob", "drop": "7.5%" } 
+        { "part": "Neuroptics", "mission": "Tier Narmer, 5", "node": "poe_ov", "drop": "8.11%" },
+        { "part": "Neuroptics", "mission": "Tier Narmer, 4", "node": "poe_ov", "drop": "5.45%" },
+        { "part": "Neuroptics", "mission": "Tier Narmer, 2&3", "node": "poe_ov", "drop": "7.5%" },
+        { "part": "Chassis", "mission": "Tier Narmer, 5", "node": "poe_ov", "drop": "8.11%" },
+        { "part": "Chassis", "mission": "Tier Narmer, 4", "node": "poe_ov", "drop": "5.45%" },
+        { "part": "Chassis", "mission": "Tier Narmer, 2&3", "node": "poe_ov", "drop": "7.5%" },
+        { "part": "Systems", "mission": "Tier Narmer, 5", "node": "poe_ov", "drop": "8.11%" },
+        { "part": "Systems", "mission": "Tier Narmer, 4", "node": "poe_ov", "drop": "5.45%" },
+        { "part": "Systems", "mission": "Tier Narmer, 2&3", "node": "poe_ov", "drop": "7.5%" }
       ]
     }
   },
@@ -287,13 +290,13 @@
         "quest": "vox_solaris"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "Tier 3, Mission 4", "node": "venus_ob", "drop": "25%" },
-        { "part": "Neuroptics", "mission": "Tier 3, Mission 3", "node": "venus_ob", "drop": "12.5%" },
-        { "part": "Neuroptics", "mission": "Tier 3, Mission 2", "node": "venus_ob", "drop": "12.5%" },
-        { "part": "Chassis", "mission": "Tier 1, Mission 3", "node": "venus_ob", "drop": "30.56%" },
-        { "part": "Chassis", "mission": "Tier 1, Mission 2", "node": "venus_ob", "drop": "7.52%" },
-        { "part": "Systems", "mission": "Tier 2, Mission 3", "node": "venus_ob", "drop": "22.22%" },
-        { "part": "Systems", "mission": "Tier 2, Mission 2", "node": "venus_ob", "drop": "7.41%" }
+        { "part": "Neuroptics", "mission": "Tier 3, Mission 4", "node": "venus_ov", "drop": "25%" },
+        { "part": "Neuroptics", "mission": "Tier 3, Mission 3", "node": "venus_ov", "drop": "12.5%" },
+        { "part": "Neuroptics", "mission": "Tier 3, Mission 2", "node": "venus_ov", "drop": "12.5%" },
+        { "part": "Chassis", "mission": "Tier 1, Mission 3", "node": "venus_ov", "drop": "30.56%" },
+        { "part": "Chassis", "mission": "Tier 1, Mission 2", "node": "venus_ov", "drop": "7.52%" },
+        { "part": "Systems", "mission": "Tier 2, Mission 3", "node": "venus_ov", "drop": "22.22%" },
+        { "part": "Systems", "mission": "Tier 2, Mission 2", "node": "venus_ov", "drop": "7.41%" }
       ]
     }
   },
@@ -389,9 +392,9 @@
         "price": "5000"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "Exploiter Orb", "node": "venus_ob", "drop": "38.72%" },
-        { "part": "Chassis", "mission": "Exploiter Orb", "node": "venus_ob", "drop": "38.72%" },
-        { "part": "Systems", "mission": "Exploiter Orb", "node": "venus_ob", "drop": "22.56%" }
+        { "part": "Neuroptics", "mission": "Exploiter Orb", "node": "venus_ov", "drop": "38.72%" },
+        { "part": "Chassis", "mission": "Exploiter Orb", "node": "venus_ov", "drop": "38.72%" },
+        { "part": "Systems", "mission": "Exploiter Orb", "node": "venus_ov", "drop": "22.56%" }
       ]
     }
   },
@@ -812,8 +815,7 @@
         { "part": "Chassis", "mission": "Tier 4, Mission 3", "node": "earth_poe", "drop": "8.51%" },
         { "part": "Chassis", "mission": "Tier 4, Mission 2", "node": "earth_poe", "drop": "8.51%" },
         { "part": "Systems", "mission": "Tier 3, Mission 4", "node": "earth_poe", "drop": "20.51%" },
-        { "part": "Systems", "mission": "Tier 3, Mission 3", "node": "earth_poe", "drop": "8.42%" },
-        { "part": "Systems", "mission": "Tier 3, Mission 2", "node": "earth_poe", "drop": "8.42%" }
+        { "part": "Systems", "mission": "Tier 3, Mission 2&3", "node": "earth_poe", "drop": "8.42%" }
       ]
     }
   },
