@@ -102,14 +102,15 @@
     "parts": {
       "type": "drop",
       "values": [
-        { "part": "Blueprint", "mission": "Mission Narmer", "node": "earth_poe", "drop": "?%" },
-        { "part": "Blueprint", "mission": "Mission Narmer", "node": "earth_poe", "drop": "?%" },
-        { "part": "Neuroptics", "mission": "Mission Narmer", "node": "earth_poe", "drop": "?%" },
-        { "part": "Neuroptics", "mission": "Mission Narmer", "node": "earth_poe", "drop": "?%" },
-        { "part": "Chassis", "mission": "Mission Narmer", "node": "venus_ob", "drop": "?%" },
-        { "part": "Chassis", "mission": "Mission Narmer", "node": "venus_ob", "drop": "?%" },
-        { "part": "Systems", "mission": "Mission Narmer", "node": "venus_ob", "drop": "?%" },
-        { "part": "Systems", "mission": "Mission Narmer", "node": "venus_ob", "drop": "?%" }
+        { "part": "Neuroptics", "mission": "Tier Narmer, 5", "node": "poe_ob", "drop": "8.11%" },
+        { "part": "Neuroptics", "mission": "Tier Narmer, 4", "node": "poe_ob", "drop": "5.45%" },
+        { "part": "Neuroptics", "mission": "Tier Narmer, 2&3", "node": "poe_ob", "drop": "7.5%" },
+        { "part": "Chassis", "mission": "Tier Narmer, 5", "node": "poe_ob", "drop": "8.11%" },
+        { "part": "Chassis", "mission": "Tier Narmer, 4", "node": "poe_ob", "drop": "5.45%" },
+        { "part": "Chassis", "mission": "Tier Narmer, 2&3", "node": "poe_ob", "drop": "7.5%" },
+        { "part": "Systems", "mission": "Tier Narmer, 5", "node": "poe_ob", "drop": "8.11%" },
+        { "part": "Systems", "mission": "Tier Narmer, 4", "node": "poe_ob", "drop": "5.45%" },
+        { "part": "Systems", "mission": "Tier Narmer, 2&3", "node": "poe_ob", "drop": "7.5%" } 
       ]
     }
   },
