@@ -38,7 +38,7 @@
   "lua": { "fr": "Lua", "en": "Lua" },
   "so": { "fr": "Assault du Sanctuaire", "en": "Sanctuary Onslaught" },
   "deimos": { "fr": "Deimos", "en": "Deimos" },
-  "deimos_cb": { "fr": "Puy de Cambion", "en": "Cambion Drift" },
+  "deimos_cd": { "fr": "Puy de Cambion", "en": "Cambion Drift" },
   "necralisk": { "fr": "Deimos - Necralisk", "en": "Deimos - Necralisk" },
   "fortuna": { "fr": "Vénus - Fortuna", "en": "Venus - Fortuna" },
   "phobos": { "fr": "Phobos", "en": "Phobos" },
