@@ -1055,14 +1055,14 @@
         "quest": "heart_of_deimos"
       },
       "values": [
-        { "part": "Neuroptics", "mission": "Tier 2, Mission 3", "node": "deimos_cb", "drop": "10%" },
-        { "part": "Neuroptics", "mission": "Tier 2, Mission 2", "node": "deimos_cb", "drop": "7.5%" },
-        { "part": "Chassis", "mission": "Tier 5, Mission 5", "node": "deimos_cb", "drop": "13.04%" },
-        { "part": "Chassis", "mission": "Tier 5, Mission 4", "node": "deimos_cb", "drop": "6.67%" },
-        { "part": "Chassis", "mission": "Tier 5, Mission 2&3", "node": "deimos_cb", "drop": "8.57%" },
-        { "part": "Systems", "mission": "Tier 4, Mission 5", "node": "deimos_cb", "drop": "10%" },
-        { "part": "Systems", "mission": "Tier 4, Mission 4", "node": "deimos_cb", "drop": "6%" },
-        { "part": "Systems", "mission": "Tier 4, Mission 2&3", "node": "deimos_cb", "drop": "7.5%" }
+        { "part": "Neuroptics", "mission": "Tier 2, Mission 3", "node": "deimos_cd", "drop": "10%" },
+        { "part": "Neuroptics", "mission": "Tier 2, Mission 2", "node": "deimos_cd", "drop": "7.5%" },
+        { "part": "Chassis", "mission": "Tier 5, Mission 5", "node": "deimos_cd", "drop": "13.04%" },
+        { "part": "Chassis", "mission": "Tier 5, Mission 4", "node": "deimos_cd", "drop": "6.67%" },
+        { "part": "Chassis", "mission": "Tier 5, Mission 2&3", "node": "deimos_cd", "drop": "8.57%" },
+        { "part": "Systems", "mission": "Tier 4, Mission 5", "node": "deimos_cd", "drop": "10%" },
+        { "part": "Systems", "mission": "Tier 4, Mission 4", "node": "deimos_cd", "drop": "6%" },
+        { "part": "Systems", "mission": "Tier 4, Mission 2&3", "node": "deimos_cd", "drop": "7.5%" }
       ]
     }
   },
