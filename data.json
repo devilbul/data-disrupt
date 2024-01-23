@@ -151,10 +151,10 @@
   "parts": {
     "type": "drop",
     "values": [
-      { "part": "Neuroptics", "mission": "tyana", "node": "mars", "drop": "6.1%" },
-      { "part": "Chassis", "mission": "tyana", "node": "mars", "drop": "6.1%" },
-      { "part": "Systems", "mission": "tyana", "node": "mars", "drop": "6.1%" },
-      { "part": "Blueprint", "mission": "tyana", "node": "mars", "drop": "9.3%" }
+      { "part": "Neuroptics", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
+      { "part": "Chassis", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
+      { "part": "Systems", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
+      { "part": "Blueprint", "mission": "Tyana Pass", "node": "mars", "drop": "9.3%" }
     ]
   }
 },{
@@ -544,10 +544,10 @@
   "parts": {
     "type": "syndicate",
     "values": [
-      { "part": "Blueprint", "syndicate": "Acritis", "region": "duviri", "price": "15" },
-      { "part": "Neuroptics", "syndicate": "Acritis", "region": "duviri", "price": "9" },
-      { "part": "Chassis", "syndicate": "Acritis", "region": "duviri", "price": "9" },
-      { "part": "Systems", "syndicate": "Acritis", "region": "duviri", "price": "9" }
+      { "part": "Blueprint", "syndicate": "Acritis", "region": "duviri", "price": "15", "currency": "Kullervo_Bane" },
+      { "part": "Neuroptics", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" },
+      { "part": "Chassis", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" },
+      { "part": "Systems", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" }
     ]
   }
 },
@@ -833,7 +833,7 @@
     }
   },{
   "warframe": "Qorvex",
-  "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/c8/KullervoIcon272.png",
+  "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png",
   "builds": {
     "warframe": [
       { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
@@ -989,10 +989,10 @@
   "parts": {
     "type": "syndicate",
     "values": [
-      { "part": "Blueprint", "syndicate": "Chipper", "region": "kahl", "price": "90" },
-      { "part": "Neuroptics", "syndicate": "Chipper", "region": "kahl", "price": "60" },
-      { "part": "Chassis", "syndicate": "Chipper", "region": "kahl", "price": "60" },
-      { "part": "Systems", "syndicate": "Chipper", "region": "kahl", "price": "60" }
+      { "part": "Blueprint", "syndicate": "Chipper", "region": "kahl", "price": "90", "currency": "Stock" },
+      { "part": "Neuroptics", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" },
+      { "part": "Chassis", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" },
+      { "part": "Systems", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" }
     ]
   }
 },
@@ -1091,14 +1091,14 @@
   "parts": {
     "type": "drop",
     "values": [
-      { "part": "Neuroptics", "mission": "circulus", "node": "lua", "drop": "8.16%" },
-      { "part": "Neuroptics", "mission": "yuvarium", "node": "lua", "drop": "4.55%" },
-      { "part": "Chassis", "mission": "circulus", "node": "lua", "drop": "8.16%" },
-      { "part": "Chassis", "mission": "yuvarium", "node": "lua", "drop": "4.55%" },
-      { "part": "Systems", "mission": "circulus", "node": "lua", "drop": "8.16%" },
-      { "part": "Systems", "mission": "yuvarium", "node": "lua", "drop": "4.55%" },
-      { "part": "Blueprint", "mission": "circulus", "node": "lua", "drop": "12.24%" },
-      { "part": "Blueprint", "mission": "yuvarium", "node": "lua", "drop": "6.82%" }
+      { "part": "Neuroptics", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
+      { "part": "Neuroptics", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
+      { "part": "Chassis", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
+      { "part": "Chassis", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
+      { "part": "Systems", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
+      { "part": "Systems", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
+      { "part": "Blueprint", "mission": "Circulus", "node": "lua", "drop": "12.24%" },
+      { "part": "Blueprint", "mission": "Yuvarium", "node": "lua", "drop": "6.82%" }
     ]
   }
 },
