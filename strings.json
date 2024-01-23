@@ -81,7 +81,7 @@
   "excavation": { "fr": "Excavation", "en": "Excavation" },
   "locator_grendel_neuroptics": { "fr": "Localisateur de Neuroptiques de Grendel", "en": "Grendel Neuroptics Locator" },
   "locator_grendel_chassis ": { "fr": "Localisateur de Châssis de Grendel", "en": "Grendel Chassis Locator" },
-  "locator_grendel_systems ": { "fr": "Localiateur de Système de Grendel", "en": "Grendel Systems Locator" },
+  "locator_grendel_systems ": { "fr": "Localisateur de Système de Grendel", "en": "Grendel Systems Locator" },
   "archaeo_freighter": { "fr": "Cargo-Archaeo", "en": "Archaeo-freighter" },
   "icefields_of_riddah": { "fr": "Plaines Glacées de Riddah", "en": " Icefields of Riddah" },
   "mine_of_karishh": { "fr": "Mines de Karishh", "en": "Mine of Karishh" },
@@ -102,5 +102,13 @@
   "waverider": { "fr": "Waverider", "en": "The Waverider" },
   "buy_market": { "fr": "est achetable dans le marché avec des", "en": "is purchasable on the market with" },
   "reward_quest": { "fr": "est obtenu après avoir terminé la quête :", "en": "is awarded after completing quest :" },
-  "syndicate_offer": { "fr": "est achetable auprès de {1}<br>pour |{2}, sur {3}", "en": "is purchasable at{1}<br>for |{2}, on {3}" }
+  "syndicate_offer": { "fr": "est achetable auprès de {1}<br>pour |{2}, sur {3}", "en": "is purchasable at{1}<br>for |{2}, on {3}" },
+  "tyana": { "fr": "Col de Tyana" , "en": "Tyana Pass" },
+  "zariman": { "fr": "Zariman", "en": "Zariman" },
+  "duviri": { "fr": "Duviri", "en": "Duviri" },
+  "whispers_walls": { "fr": "Murmures dans les Murs", "en": "Whispers in the Walls" },
+  "deimons_sanctum": { "fr": "Deimos - Sanctum Anatomica", "en": "Deimos - Sanctum Anatomica" },
+  "kahl": { "fr": "Garnison de Kahl", "en": "Kahl's Garrison" },
+  "circulus": { "fr": "Circulus", "en": "Circulus"},
+  "yuvarium": { "fr": "Yuvarium", "en": "Yuvarium"}
 }
