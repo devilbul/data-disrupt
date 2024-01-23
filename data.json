@@ -5,10 +5,10 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0d/AshIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48968 ", "name": { "fr": "Général", "en": "General" }  },
-        { "url": "https://overframe.gg/build/48974 ", "name": { "fr": "Tempête de Lame", "en": "Blade Storm" }  },
+        { "url": "https://overframe.gg/build/48968", "name": { "fr": "Général", "en": "General" }  },
+        { "url": "https://overframe.gg/build/48974", "name": { "fr": "Tempête de Lame", "en": "Blade Storm" }  },
         { "url": "https://overframe.gg/build/242480", "name": { "fr": "Tranchant", "en": "Slash" }  },
-        { "url": "https://overframe.gg/build/68254 ", "name": { "fr": "Perturbation", "en": "Disruption" }  }
+        { "url": "https://overframe.gg/build/68254", "name": { "fr": "Perturbation", "en": "Disruption" }  }
       ]
     },
     "parts": {
@@ -56,8 +56,8 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f8/BansheeIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48111 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48110 ", "name": { "fr": "Sonar", "en": "Sonar" } },
+        { "url": "https://overframe.gg/build/48111", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48110", "name": { "fr": "Sonar", "en": "Sonar" } },
         { "url": "https://overframe.gg/build/242487", "name": { "fr": "Adaro", "en": "Adaro" } },
         { "url": "https://overframe.gg/build/242491", "name": { "fr": "Contrôle", "en": "Controle" } },
         { "url": "https://overframe.gg/build/242490", "name": { "fr": "Endurance", "en": "Endurance" } },
@@ -123,8 +123,8 @@
     "builds": {
       "warframe": [
         { "url": "https://overframe.gg/build/242848", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48138 ", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/24758 ", "name": { "fr": "PT Seul", "en": "PT Solo" } },
+        { "url": "https://overframe.gg/build/48138", "name": { "fr": "Buff", "en": "Buff" } },
+        { "url": "https://overframe.gg/build/24758", "name": { "fr": "PT Seul", "en": "PT Solo" } },
         { "url": "https://overframe.gg/build/189286", "name": { "fr": "PT Groupe", "en": "PT Squad" } }
       ]
     },
@@ -140,7 +140,36 @@
         { "part": "Systems", "mission": "junction", "node": "pluto" }
       ]
     }
+  },{
+  "warframe": "Citrine",
+  "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/82/CitrineIcon272.png",
+  "builds": {
+    "warframe": [
+      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+    ]
   },
+  "parts": {
+    "type": "drop",
+    "values": [
+      { "part": "Neuroptics", "mission": "tyana", "node": "mars", "drop": "6.1%" },
+      { "part": "Chassis", "mission": "tyana", "node": "mars", "drop": "6.1%" },
+      { "part": "Systems", "mission": "tyana", "node": "mars", "drop": "6.1%" },
+      { "part": "Blueprint", "mission": "tyana", "node": "mars", "drop": "9.3%" }
+    ]
+  }
+},{
+  "warframe": "Dagath",
+  "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/34/DagathIcon272.png",
+  "builds": {
+    "warframe": [
+      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+    ]
+  },
+  "parts": {
+    "type": "dojo",
+    "lab": "tenno"
+  }
+},
   {
     "warframe": "Ember",
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/50/EmberIcon272.png",
@@ -164,9 +193,9 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48081 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48077 ", "name": { "fr": "Adaro", "en": "Adaro" } },
-        { "url": "https://overframe.gg/build/48082 ", "name": { "fr": "Dualité", "en": "Duality" } },
+        { "url": "https://overframe.gg/build/48081", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48077", "name": { "fr": "Adaro", "en": "Adaro" } },
+        { "url": "https://overframe.gg/build/48082", "name": { "fr": "Dualité", "en": "Duality" } },
         { "url": "https://overframe.gg/build/242502", "name": { "fr": "Accélérant", "en": "Speed" } },
         { "url": "https://overframe.gg/build/242503", "name": { "fr": "Général Provocation", "en": "General Provoke" } },
         { "url": "https://overframe.gg/build/242504", "name": { "fr": "Provocation", "en": "Provoke" } }
@@ -217,10 +246,10 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/d/d0/FrostIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48143 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48141 ", "name": { "fr": "Spam Bulle", "en": "Spam Globe" } },
+        { "url": "https://overframe.gg/build/48143", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48141", "name": { "fr": "Spam Bulle", "en": "Spam Globe" } },
         { "url": "https://overframe.gg/build/242509", "name": { "fr": "Bulle", "en": "Globe" } },
-        { "url": "https://overframe.gg/build/48145 ", "name": { "fr": "AoE", "en": "Nuke" } },
+        { "url": "https://overframe.gg/build/48145", "name": { "fr": "AoE", "en": "Nuke" } },
         { "url": "https://overframe.gg/build/242511", "name": { "fr": "Buff", "en": "Buff" } }
       ]
     },
@@ -241,9 +270,9 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/84/GaraIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48196 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48197 ", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/48198 ", "name": { "fr": "Défense", "en": "Defense" } }
+        { "url": "https://overframe.gg/build/48196", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48197", "name": { "fr": "AoE", "en": "Nuke" } },
+        { "url": "https://overframe.gg/build/48198", "name": { "fr": "Défense", "en": "Defense" } }
       ],
       "stat_stick": [
         { "url": "https://overframe.gg/build/183982", "name": { "fr": "Général", "en": "General" } }
@@ -277,9 +306,9 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48178 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48177 ", "name": { "fr": "Endurance", "en": "Endurance" } },
-        { "url": "https://overframe.gg/build/48170 ", "name": { "fr": "AoE", "en": "Nuke" } },
+        { "url": "https://overframe.gg/build/48178", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48177", "name": { "fr": "Endurance", "en": "Endurance" } },
+        { "url": "https://overframe.gg/build/48170", "name": { "fr": "AoE", "en": "Nuke" } },
         { "url": "https://overframe.gg/build/242512", "name": { "fr": "Railjack", "en": "Railjack" } }
       ]
     },
@@ -327,7 +356,7 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/18/GrendelIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68372 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/68372", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/242519", "name": { "fr": "Buff", "en": "Buff" } },
         { "url": "https://overframe.gg/build/242518", "name": { "fr": "Festin", "en": "Feast" } }
       ]
@@ -343,15 +372,33 @@
         { "part": "Systems", "object": "locator_grendel_systems", "mission": "mine_of_karishh", "type": "excavation", "price": "25" }
       ]
     }
+  },{
+  "warframe": "Gyre",
+  "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/6d/GyreIcon272.png",
+  "builds": {
+    "warframe": [
+      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+    ]
   },
+  "parts": {
+    "type": "drop",
+    "values": [
+      { "part": "Neuroptics", "mission": "Tier 1, lvl 50-55", "node": "zariman", "drop": "13.04%" },
+      { "part": "Chassis", "mission": "Tier 2, lvl 60-65", "node": "zariman", "drop": "13.54%" },
+      { "part": "Systems", "mission": "Tier 3, lvl 70-75", "node": "zariman", "drop": "11.90%" },
+      { "part": "Blueprint", "mission": "Tier 4, lvl 90-95", "node": "zariman", "drop": "12.99%" },
+      { "part": "Blueprint", "mission": "Tier 5, lvl 110-115", "node": "zariman", "drop": "12.99%" }
+    ]
+  }
+},
   {
     "warframe": "Harrow",
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/68/HarrowIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68265 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/68265", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/242027", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/28706 ", "name": { "fr": "Eidolon", "en": "Eidolon" } }
+        { "url": "https://overframe.gg/build/28706", "name": { "fr": "Eidolon", "en": "Eidolon" } }
       ]
     },
     "parts": {
@@ -375,12 +422,12 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/19/HildrynIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68344 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/68346 ", "name": { "fr": "Contrôle", "en": "Controle" } },
+        { "url": "https://overframe.gg/build/68344", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/68346", "name": { "fr": "Contrôle", "en": "Controle" } },
         { "url": "https://overframe.gg/build/242035", "name": { "fr": "Support", "en": "Support" } }
       ],
       "balefire": [
-        { "url": "https://overframe.gg/build/68353 ", "name": { "fr": "Général", "en": "General" } }
+        { "url": "https://overframe.gg/build/68353", "name": { "fr": "Général", "en": "General" } }
       ]
     },
     "parts": {
@@ -403,7 +450,7 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/HydroidIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48240 ", "name": { "fr": "Général / Butin", "en": "General/Loot" } },
+        { "url": "https://overframe.gg/build/48240", "name": { "fr": "Général / Butin", "en": "General/Loot" } },
         { "url": "https://overframe.gg/build/242037", "name": { "fr": "Contrôle", "en": "Controle" } }
       ]
     },
@@ -439,9 +486,9 @@
       "warframe": [
         { "url": "https://overframe.gg/build/202796", "name": { "fr": "Carquois", "en": "Quiver" } },
         { "url": "https://overframe.gg/build/242525", "name": { "fr": "Flèche Concentrée", "en": "Concentrated Arrow" } },
-        { "url": "https://overframe.gg/build/48149 ", "name": { "fr": "Butin", "en": "Loot" } },
-        { "url": "https://overframe.gg/build/48157 ", "name": { "fr": "Contrôle", "en": "Controle" } },
-        { "url": "https://overframe.gg/build/48152 ", "name": { "fr": "Espionnage", "en": "Spy" } }
+        { "url": "https://overframe.gg/build/48149", "name": { "fr": "Butin", "en": "Loot" } },
+        { "url": "https://overframe.gg/build/48157", "name": { "fr": "Contrôle", "en": "Controle" } },
+        { "url": "https://overframe.gg/build/48152", "name": { "fr": "Espionnage", "en": "Spy" } }
       ]
     },
     "parts": {
@@ -464,17 +511,17 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0f/KhoraIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48024 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48030 ", "name": { "fr": "Buton", "en": "Loot" } },
-        { "url": "https://overframe.gg/build/48036 ", "name": { "fr": "Contrôle", "en": "Controle" } },
-        { "url": "https://overframe.gg/build/48026 ", "name": { "fr": "Endurance", "en": "Endurance" } },
+        { "url": "https://overframe.gg/build/48024", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48030", "name": { "fr": "Buton", "en": "Loot" } },
+        { "url": "https://overframe.gg/build/48036", "name": { "fr": "Contrôle", "en": "Controle" } },
+        { "url": "https://overframe.gg/build/48026", "name": { "fr": "Endurance", "en": "Endurance" } },
         { "url": "https://overframe.gg/build/242527", "name": { "fr": "Endo", "en": "Endo" } }
       ],
       "venari": [
         { "url": "https://overframe.gg/build/183990", "name": { "fr": "Général", "en": "General" } }
       ],
       "stat_stick": [
-        { "url": "https://overframe.gg/build/48041 ", "name": { "fr": "Général", "en": "General" } }
+        { "url": "https://overframe.gg/build/48041", "name": { "fr": "Général", "en": "General" } }
       ]
     },
     "parts": {
@@ -486,7 +533,24 @@
         { "part": "Systems", "mission": "£strings$so£, Rot C", "node": "*", "drop": "11.28%" }
       ]
     }
+  },{
+  "warframe": "Kullervo",
+  "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/c8/KullervoIcon272.png",
+  "builds": {
+    "warframe": [
+      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+    ]
   },
+  "parts": {
+    "type": "syndicate",
+    "values": [
+      { "part": "Blueprint", "syndicate": "Acritis", "region": "duviri", "price": "15" },
+      { "part": "Neuroptics", "syndicate": "Acritis", "region": "duviri", "price": "9" },
+      { "part": "Chassis", "syndicate": "Acritis", "region": "duviri", "price": "9" },
+      { "part": "Systems", "syndicate": "Acritis", "region": "duviri", "price": "9" }
+    ]
+  }
+},
   {
     "warframe": "Lavos",
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png",
@@ -510,8 +574,8 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/a/a7/LimboIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48987 ", "name": { "fr": "Portée faible", "en": "Low Range" } },
-        { "url": "https://overframe.gg/build/48988 ", "name": { "fr": "Portée élevée", "en": "High Range" } },
+        { "url": "https://overframe.gg/build/48987", "name": { "fr": "Portée faible", "en": "Low Range" } },
+        { "url": "https://overframe.gg/build/48988", "name": { "fr": "Portée élevée", "en": "High Range" } },
         { "url": "https://overframe.gg/build/202813", "name": { "fr": "Torrent Dimensionnel", "en": "Rift Torrent" } }
       ]
     },
@@ -528,9 +592,9 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48182 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48184 ", "name": { "fr": "Désarmement", "en": "Disarm" } },
-        { "url": "https://overframe.gg/build/48185 ", "name": { "fr": "Index", "en": "Index" } },
+        { "url": "https://overframe.gg/build/48182", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48184", "name": { "fr": "Désarmement", "en": "Disarm" } },
+        { "url": "https://overframe.gg/build/48185", "name": { "fr": "Index", "en": "Index" } },
         { "url": "https://overframe.gg/build/242529", "name": { "fr": "Téléportation", "en": "Teleport" } }
       ]
     },
@@ -551,8 +615,8 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/89/MagIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48261 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48188 ", "name": { "fr": "Décharge", "en": "Discharge" } },
+        { "url": "https://overframe.gg/build/48261", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48188", "name": { "fr": "Décharge", "en": "Discharge" } },
         { "url": "https://overframe.gg/build/242532", "name": { "fr": "AoE", "en": "Nuke" } },
         { "url": "https://overframe.gg/build/242533", "name": { "fr": "Contrôle", "en": "Controle" } }
       ]
@@ -597,9 +661,9 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48222 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48223 ", "name": { "fr": "Buffer", "en": "Buffer" } },
-        { "url": "https://overframe.gg/build/48220 ", "name": { "fr": "AoE", "en": "Nuke" } },
+        { "url": "https://overframe.gg/build/48222", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48223", "name": { "fr": "Buffer", "en": "Buffer" } },
+        { "url": "https://overframe.gg/build/48220", "name": { "fr": "AoE", "en": "Nuke" } },
         { "url": "https://overframe.gg/build/242541", "name": { "fr": "AoE Buff", "en": "Nuke Buff" } },
         { "url": "https://overframe.gg/build/202805", "name": { "fr": "Garde Prismatique", "en": "Prism Guard" } }
       ]
@@ -618,7 +682,7 @@
     "builds": {
       "warframe": [
         { "url": "https://overframe.gg/build/242552", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48117 ", "name": { "fr": "Buton", "en": "Loot" } },
+        { "url": "https://overframe.gg/build/48117", "name": { "fr": "Buton", "en": "Loot" } },
         { "url": "https://overframe.gg/build/242553", "name": { "fr": "Boss", "en": "Boss" } }
       ]
     },
@@ -654,10 +718,10 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/5e/NidusIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48118 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48118", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/183891", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/48120 ", "name": { "fr": "Larve", "en": "Larva" } },
-        { "url": "https://overframe.gg/build/48119 ", "name": { "fr": "Endurance", "en": "Endurance" } },
+        { "url": "https://overframe.gg/build/48120", "name": { "fr": "Larve", "en": "Larva" } },
+        { "url": "https://overframe.gg/build/48119", "name": { "fr": "Endurance", "en": "Endurance" } },
         { "url": "https://overframe.gg/build/242558", "name": { "fr": "Lien", "en": "Link" } }
       ]
     },
@@ -679,9 +743,9 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/4/40/NovaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48076 ", "name": { "fr": "Speedrun", "en": "Speedrun" } },
-        { "url": "https://overframe.gg/build/48074 ", "name": { "fr": "Accélérant", "en": "Speed" } },
-        { "url": "https://overframe.gg/build/48073 ", "name": { "fr": "Ralentissant", "en": "Slow" } },
+        { "url": "https://overframe.gg/build/48076", "name": { "fr": "Speedrun", "en": "Speedrun" } },
+        { "url": "https://overframe.gg/build/48074", "name": { "fr": "Accélérant", "en": "Speed" } },
+        { "url": "https://overframe.gg/build/48073", "name": { "fr": "Ralentissant", "en": "Slow" } },
         { "url": "https://overframe.gg/build/242562", "name": { "fr": "Portée élevée / Accélérant", "en": "Max Range Speed" } },
         { "url": "https://overframe.gg/build/242565", "name": { "fr": "Buff / Ralentissant", "en": "Slow Buff" } },
         { "url": "https://overframe.gg/build/242563", "name": { "fr": "Eidolon", "en": "Eidolon" } }
@@ -705,7 +769,7 @@
     "builds": {
       "warframe": [
         { "url": "https://overframe.gg/build/202809", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48230 ", "name": { "fr": "Dojo", "en": "Dojo" } }
+        { "url": "https://overframe.gg/build/48230", "name": { "fr": "Dojo", "en": "Dojo" } }
       ]
     },
     "parts": {
@@ -725,9 +789,9 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/1c/OberonIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48232 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48232", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/242567", "name": { "fr": "Général Tank", "en": "General Tank" } },
-        { "url": "https://overframe.gg/build/28778 ", "name": { "fr": "Buff", "en": "Buff" } },
+        { "url": "https://overframe.gg/build/28778", "name": { "fr": "Buff", "en": "Buff" } },
         { "url": "https://overframe.gg/build/242571", "name": { "fr": "Phénix Buff", "en": "Phoenix Buff" } },
         { "url": "https://overframe.gg/build/242572", "name": { "fr": "AoE", "en": "Nuke" } }
       ]
@@ -767,13 +831,33 @@
         { "part": "Systems", "mission": "Plato (cache)", "node": "lua", "drop": "22.56%" }
       ]
     }
+  },{
+  "warframe": "Qorvex",
+  "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/c8/KullervoIcon272.png",
+  "builds": {
+    "warframe": [
+      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+    ]
   },
+  "parts": {
+    "type": "drop",
+    "blueprint": {
+      "type": "quest",
+      "quest": "whispers_walls"
+    },
+    "values": [
+      { "part": "Neuroptics", "mission": "Tier 1, lvl 55-60", "node": "deimons_sanctum", "drop": "x%" },
+      { "part": "Chassis", "mission": "Tier 2, lvl 65-70", "node": "deimons_sanctum", "drop": "x%" },
+      { "part": "Systems", "mission": "Tier 3, lvl 75-80", "node": "deimons_sanctum", "drop": "x%" }
+    ]
+  }
+},
   {
     "warframe": "Protea",
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/63/ProteaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68366 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/68366", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/242582", "name": { "fr": "Support", "en": "Support" } },
         { "url": "https://overframe.gg/build/242580", "name": { "fr": "Railjack", "en": "Railjack" } }
       ]
@@ -796,8 +880,8 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/02/RevenantIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48218 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48219 ", "name": { "fr": "Mesmer", "en": "Mesmer" } },
+        { "url": "https://overframe.gg/build/48218", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48219", "name": { "fr": "Mesmer", "en": "Mesmer" } },
         { "url": "https://overframe.gg/build/242584", "name": { "fr": "Buff", "en": "Buff" } }
       ]
     },
@@ -824,10 +908,10 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8d/RhinoIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48099 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48099", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/242588", "name": { "fr": "Général Buff", "en": "General Buff" } },
-        { "url": "https://overframe.gg/build/48103 ", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/48105 ", "name": { "fr": "Piétinement", "en": "Stomp" } }
+        { "url": "https://overframe.gg/build/48103", "name": { "fr": "Buff", "en": "Buff" } },
+        { "url": "https://overframe.gg/build/48105", "name": { "fr": "Piétinement", "en": "Stomp" } }
       ]
     },
     "parts": {
@@ -848,9 +932,9 @@
     "builds": {
       "warframe": [
         { "url": "https://overframe.gg/build/202786", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48070 ", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/48071 ", "name": { "fr": "Spores", "en": "Spores" } },
-        { "url": "https://overframe.gg/build/48072 ", "name": { "fr": "Nuages", "en": "Clouds" } },
+        { "url": "https://overframe.gg/build/48070", "name": { "fr": "AoE", "en": "Nuke" } },
+        { "url": "https://overframe.gg/build/48071", "name": { "fr": "Spores", "en": "Spores" } },
+        { "url": "https://overframe.gg/build/48072", "name": { "fr": "Nuages", "en": "Clouds" } },
         { "url": "https://overframe.gg/build/242766", "name": { "fr": "PT Groupe", "en": "PT Squad" } },
         { "url": "https://overframe.gg/build/183909", "name": { "fr": "Pr Seul", "en": "PT Solo" } }
       ]
@@ -894,21 +978,38 @@
         { "part": "Systems", "mission": "£strings$void_storm£", "node": "corpus_proxima", "drop": "10%" }
       ]
     }
+  },{
+  "warframe": "Styanax",
+  "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/c3/StyanaxIcon272.png",
+  "builds": {
+    "warframe": [
+      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+    ]
   },
+  "parts": {
+    "type": "syndicate",
+    "values": [
+      { "part": "Blueprint", "syndicate": "Chipper", "region": "kahl", "price": "90" },
+      { "part": "Neuroptics", "syndicate": "Chipper", "region": "kahl", "price": "60" },
+      { "part": "Chassis", "syndicate": "Chipper", "region": "kahl", "price": "60" },
+      { "part": "Systems", "syndicate": "Chipper", "region": "kahl", "price": "60" }
+    ]
+  }
+},
   {
     "warframe": "Titania",
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/e/e8/TitaniaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48981 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48981", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/242744", "name": { "fr": "Général Pixia", "en": "General Pixia" } },
         { "url": "https://overframe.gg/build/183832", "name": { "fr": "Speedrun", "en": "Speedrun" } },
         { "url": "https://overframe.gg/build/183851", "name": { "fr": "Gauss", "en": "Gauss" } }
       ],
       "dex_pixia": [
-        { "url": "https://overframe.gg/build/48983 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48983", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/183838", "name": { "fr": "Speedrun", "en": "Speedrun" } },
-        { "url": "https://overframe.gg/build/48984 ", "name": { "fr": "Lephantis", "en": "Lephantis" } }
+        { "url": "https://overframe.gg/build/48984", "name": { "fr": "Lephantis", "en": "Lephantis" } }
       ]
     },
     "parts": {
@@ -921,10 +1022,10 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f9/TrinityIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "ttps://overframe.gg/build/48094 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "ttps://overframe.gg/build/48092 ", "name": { "fr": "EV", "en": "EV" } },
+        { "url": "ttps://overframe.gg/build/48094", "name": { "fr": "Général", "en": "General" } },
+        { "url": "ttps://overframe.gg/build/48092", "name": { "fr": "EV", "en": "EV" } },
         { "url": "ttps://overframe.gg/build/242755", "name": { "fr": "EV DPS", "en": "EV DPS" } },
-        { "url": "ttps://overframe.gg/build/28725 ", "name": { "fr": "Eidolon", "en": "Eidolon" } }
+        { "url": "ttps://overframe.gg/build/28725", "name": { "fr": "Eidolon", "en": "Eidolon" } }
       ]
     },
     "parts": {
@@ -979,15 +1080,36 @@
         "type": "market"
       }
     }
+  },{
+  "warframe": "Voruna",
+  "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png",
+  "builds": {
+    "warframe": [
+      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+    ]
   },
+  "parts": {
+    "type": "drop",
+    "values": [
+      { "part": "Neuroptics", "mission": "circulus", "node": "lua", "drop": "8.16%" },
+      { "part": "Neuroptics", "mission": "yuvarium", "node": "lua", "drop": "4.55%" },
+      { "part": "Chassis", "mission": "circulus", "node": "lua", "drop": "8.16%" },
+      { "part": "Chassis", "mission": "yuvarium", "node": "lua", "drop": "4.55%" },
+      { "part": "Systems", "mission": "circulus", "node": "lua", "drop": "8.16%" },
+      { "part": "Systems", "mission": "yuvarium", "node": "lua", "drop": "4.55%" },
+      { "part": "Blueprint", "mission": "circulus", "node": "lua", "drop": "12.24%" },
+      { "part": "Blueprint", "mission": "yuvarium", "node": "lua", "drop": "6.82%" }
+    ]
+  }
+},
   {
     "warframe": "Volt",
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/9/95/VoltIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48063 ", "name": { "fr": "Vitesse", "en": "Speed" } },
-        { "url": "https://overframe.gg/build/48066 ", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/48053 ", "name": { "fr": "Eidolon Raid du Néant", "en": "Eidolon Void Strike" } },
+        { "url": "https://overframe.gg/build/48063", "name": { "fr": "Vitesse", "en": "Speed" } },
+        { "url": "https://overframe.gg/build/48066", "name": { "fr": "AoE", "en": "Nuke" } },
+        { "url": "https://overframe.gg/build/48053", "name": { "fr": "Eidolon Raid du Néant", "en": "Eidolon Void Strike" } },
         { "url": "https://overframe.gg/build/183873", "name": { "fr": "Eidolon DPS", "en": "Eidolon DPS" } },
         { "url": "https://overframe.gg/build/242774", "name": { "fr": "PT Groupe", "en": "PT Squad" } },
         { "url": "https://overframe.gg/build/242776", "name": { "fr": "PT Seul", "en": "PT Solo" } }
@@ -1003,10 +1125,10 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/a/a3/WispIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48087 ", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48086 ", "name": { "fr": "Général Buff", "en": "General Buff" } },
+        { "url": "https://overframe.gg/build/48087", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/48086", "name": { "fr": "Général Buff", "en": "General Buff" } },
         { "url": "https://overframe.gg/build/183883", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/48085 ", "name": { "fr": "Eidolon", "en": "Eidolon" } },
+        { "url": "https://overframe.gg/build/48085", "name": { "fr": "Eidolon", "en": "Eidolon" } },
         { "url": "https://overframe.gg/build/242781", "name": { "fr": "PT Groupe", "en": "PT Squad" } }
       ]
     },
@@ -1026,11 +1148,11 @@
     "builds": {
       "warframe": [
         { "url": "https://overframe.gg/build/242784", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48225 ", "name": { "fr": "Fureur Primale", "en": "Primal Rage" } },
+        { "url": "https://overframe.gg/build/48225", "name": { "fr": "Fureur Primale", "en": "Primal Rage" } },
         { "url": "https://overframe.gg/build/202807", "name": { "fr": "Index", "en": "Index" } }
       ],
       "iron_staff": [
-        { "url": "https://overframe.gg/build/48227 ", "name": { "fr": "Général", "en": "General" } }
+        { "url": "https://overframe.gg/build/48227", "name": { "fr": "Général", "en": "General" } }
       ]
     },
     "parts": {
@@ -1090,7 +1212,7 @@
     "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/1d/ZephyrIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68370 ", "name": { "fr": "Général", "en": "General" } },
+        { "url": "https://overframe.gg/build/68370", "name": { "fr": "Général", "en": "General" } },
         { "url": "https://overframe.gg/build/242791", "name": { "fr": "Tornade", "en": "Tornado" } }
       ]
     },
