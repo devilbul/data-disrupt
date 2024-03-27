@@ -1,4 +1,6 @@
 {
+  "SolNode407": {
+  },
   "SolNode745": {
     "FortIntShipAssemblyRoom/FortObjArena": {"tierLevel": "F", "map": ["Hall", "Arena"]},
     "FortObjArena/FortIntShipAssemblyRoom": {"tierLevel": "F", "map": ["Arena", "Hall"]},
